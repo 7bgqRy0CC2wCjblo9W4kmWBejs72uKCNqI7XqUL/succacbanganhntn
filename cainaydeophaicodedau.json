@@ -1,0 +1,30 @@
+{
+  "TestCode": {
+    "Requirement": {
+      "UserId": [
+        287804882
+      ],
+      "Level": 1
+    },
+    "Reward": {
+      "RandomFruit": true,
+      "ResetStat": true
+    },
+    "RewardData": {
+      "_Stats": {
+        "Point": {
+          "Value": 1,
+          "Type": "Increment"
+        },
+        "StatsP": {
+          "Str": {
+            "Value": 0,
+            "Type": "Set"
+          }
+        }
+      }
+    },
+    "Expire": 1667068840,
+    "OnActive": "\t\t\treturn function(plr) \n\t\t\t\tprint(plr)\n\t\t\tend\n\t\t"
+  }
+}
