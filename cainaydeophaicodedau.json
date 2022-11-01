@@ -41,5 +41,13 @@
     "Reward": {
       "ResetStat": true
     }
+  },
+  "Conmemay!": {
+    "Requirement": {
+      "UserId": [
+        287804882
+      ],
+      "Level": 250
+    },
   }
 }
