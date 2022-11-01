@@ -24,7 +24,22 @@
         }
       }
     },
-    "Expire": 1667068840,
+    "Expire": 1667319551,
     "OnActive": "\t\t\treturn function(plr) \n\t\t\t\tprint(plr)\n\t\t\tend\n\t\t"
+  },
+  "FirstCode!": {
+    "RewardData": {
+      "Boots": {
+        "X2Time": {
+          "Value": 3600,
+          "Type": "Increment"
+        }
+      }
+    }
+  },
+  "YourMother!": {
+    "Reward": {
+      "ResetStat": true
+    }
   }
 }
