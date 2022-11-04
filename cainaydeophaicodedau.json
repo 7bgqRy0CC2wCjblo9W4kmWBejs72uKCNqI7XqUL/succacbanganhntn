@@ -49,5 +49,15 @@
       ],
       "Level": 250
     }
+  },
+  "HALLOWEEN!": {
+    "RewardData": {
+      "Boots": {
+        "X2DropTime": {
+          "Value": 1800,
+          "Type": "Increment"
+        }
+      }
+    }
   }
 }
