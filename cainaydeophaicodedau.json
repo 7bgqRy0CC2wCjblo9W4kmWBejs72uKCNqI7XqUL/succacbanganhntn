@@ -59,5 +59,30 @@
         }
       }
     }
+  },
+  "Sub2Sheesty": {
+    "RewardData": {
+      "Boots": {
+        "X2Time": {
+          "Value": 1800,
+          "Type": "Increment"
+        }
+      }
+    }
+  },
+  "Sub2Maui": {
+    "RewardData": {
+      "Boots": {
+        "X2DropTime": {
+          "Value": 1800,
+          "Type": "Increment"
+        }
+      }
+    }
+  },
+  "ResetStats!": {
+    "Reward": {
+      "ResetStat": true
+    }
   }
 }
