@@ -80,6 +80,16 @@
       }
     }
   },
+   "Update1": {
+    "RewardData": {
+      "Boots": {
+        "X2Time": {
+          "Value": 1800,
+          "Type": "Increment"
+        }
+      }
+    }
+  },
   "ResetStats!": {
     "Reward": {
       "ResetStat": true
